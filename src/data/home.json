@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "MEIAMARATONAFLORIPA — Bem-vindo à Meiamaratona Floripa!",
+    "description": "Descubra tudo sobre corrida, maratonas e dicas para melhorar seu desempenho."
+  },
+  "hero": {
+    "title": "Bem-vindo à Meiamaratona Floripa!",
+    "subtitle": "Descubra tudo sobre corrida, maratonas e dicas para melhorar seu desempenho.",
+    "btnText": "Comece sua jornada",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Destaques",
+    "items": [
+      {
+        "icon": "🏃‍♂️",
+        "title": "Dicas de Treinamento",
+        "desc": "Aprenda técnicas e estratégias que vão ajudar você a correr melhor e mais longe."
+      },
+      {
+        "icon": "📅",
+        "title": "Eventos e Corridas",
+        "desc": "Fique por dentro das próximas maratonas e corridas na sua região."
+      },
+      {
+        "icon": "🥇",
+        "title": "Inspiração de Atletas",
+        "desc": "Leia histórias que vão motivá-lo a alcançar suas metas na corrida."
+      },
+      {
+        "icon": "🍏",
+        "title": "Nutrição e Saúde",
+        "desc": "Descubra a importância de uma alimentação adequada para potenciais resultados."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Felipe Nobre",
+    "desc": "Sou corredor de maratona profissional com mais de 7 anos de experiência. Criei este portal para compartilhar tudo o que aprendi durante esses anos nas ruas. A corrida é mais do que um esporte para mim; é uma paixão que renova minha energia e me conecta com pessoas incríveis.",
+    "stats": [
+      {
+        "value": "7+",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "1000+",
+        "label": "Kilômetros percorridos"
+      },
+      {
+        "value": "500+",
+        "label": "Atletas impactados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

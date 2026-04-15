@@ -1,0 +1,53 @@
+{
+  "name": "MEIAMARATONAFLORIPA",
+  "slug": "meiamaratonafloripa.com.br",
+  "description": "A mais ou menos 3 anos decidir criar o site e isso tem renovado minha energia com a corrida. Amo compartilhar todo o meu conhecimento através da internet. Meu objetivo é passar todo os meus aprendizados de forma simples para que o máximo de pessoas sejam beneficiadas com ele. Olá! Seja muito bem vindo ao meu site, me chamo Felipe Nobre, tenho 31 anos e sou corredor de maratona profissional a mais de 7 anos. Criei este portal para dividir um pouco da minha experiência que adquiri ao longo dos anos nas ruas. Muitos conhecido sempre falam para eu criar um site e compartilhar minhas experiências.",
+  "url": "https://meiamaratonafloripa.com.br",
+  "niche": "Esportes e Fitness",
+  "keywords": "A mais ou menos 3 anos decidir criar o site e isso",
+  "email": "contato@meiamaratonafloripa.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-C",
+    "features": "Features-A",
+    "about": "About-I",
+    "posts": "Posts-D",
+    "footer": "Footer-D",
+    "sobre": "Sobre-A",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MEIAMARATONAFLORIPA"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Sou corredor de maratona profissional com mais de 7 anos de experiência. Criei este portal para compartilhar tudo o que aprendi durante esses anos nas ruas. A corrida é mais do que um esporte para mim; é uma paixão que renova minha energia e me conecta com pessoas incríveis."
+  },
+  "content": "Neste site, você encontrará uma variedade de conteúdos sobre corrida, dicas de treinamento, nutrição e eventos. Meu objetivo é compartilhar conhecimento de maneira simples e acessível para que todos possam desfrutar dos benefícios da corrida.",
+  "mission": "Minha missão é inspirar e ajudar pessoas a se tornarem corredoras e corredores, promovendo um estilo de vida saudável e ativo.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
